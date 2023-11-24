@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <>
-      <Router basename="/netflix_dub">
+      <Router basename="/netflix-dub">
         <Navbar />
         <Routes>
           <Route path="/" element={<HomePage></HomePage>}></Route>
