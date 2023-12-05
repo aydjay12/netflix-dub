@@ -137,4 +137,7 @@ p {
     width: 320px;
     height: 250px;
   }
+  .content {
+    width: 100%;
+  }
 }

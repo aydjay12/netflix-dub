@@ -60,7 +60,6 @@
 .rating i {
   color: #e50813;
   margin-right: 5px;
-  font-size: 12px;
 }
 .rating label {
   margin: 0 20px;
@@ -135,7 +134,7 @@
   .home {
     position: relative;
     margin: 0;
-    height: 60vh !important;
+    height: 63vh !important;
   }
   .coverImage img {
     width: 100vw;
