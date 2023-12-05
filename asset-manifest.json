@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/netflix-dub/static/css/main.e5088da9.css",
+    "main.css": "/netflix-dub/static/css/main.611782e9.css",
     "main.js": "/netflix-dub/static/js/main.ff83842f.js",
     "static/media/video3.mp4": "/netflix-dub/static/media/video3.26b9bbb049baf37d7215.mp4",
     "static/media/video2.mp4": "/netflix-dub/static/media/video2.0bd750ea8a82e040bd75.mp4",
@@ -32,11 +32,11 @@
     "static/media/slick.ttf": "/netflix-dub/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/netflix-dub/index.html",
     "static/media/slick.woff": "/netflix-dub/static/media/slick.295183786cd8a1389865.woff",
-    "main.e5088da9.css.map": "/netflix-dub/static/css/main.e5088da9.css.map",
+    "main.611782e9.css.map": "/netflix-dub/static/css/main.611782e9.css.map",
     "main.ff83842f.js.map": "/netflix-dub/static/js/main.ff83842f.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5088da9.css",
+    "static/css/main.611782e9.css",
     "static/js/main.ff83842f.js"
   ]
 }
